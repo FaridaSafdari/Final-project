@@ -30,7 +30,7 @@ nav{
 .menu li a{
   text-decoration: none;
   color:white;
-  transation:0.3s;
+
 }
 .menu li a:hover{
   color:grey;
@@ -56,7 +56,7 @@ nav{
 }
 
 .row{
-  background-color:;
+
     padding-top: 90px;
     padding-left: 50px;
     padding-right: 50px;
@@ -82,9 +82,7 @@ nav{
   height:370px;
   
   border-radius: 10%;
-  
-  padding-left: auto;
-  padding-right: auto;
+
 }
 h3{
   text-align: center;  
@@ -177,8 +175,8 @@ background-image: url('ax/77.png');
     color: white;
   }        
 .row .submit:hover{
-    color: red;
-        font-size: 15  px;
+         color: red;
+        font-size: 15px;
   }                                    
   .second h1{
     text-align: left;

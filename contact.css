@@ -31,7 +31,7 @@ nav{
 .menu li a{
   text-decoration: none;
   color:white;
-  transation:0.3s;
+  
 }
 .menu li a:hover{
   color:grey;
@@ -139,7 +139,7 @@ footer{
     padding-top: 100px;
     padding-bottom: 100px;
     display: flex;
-    flex-direction: wrap;
+    flex-direction:row;
     justify-content: center;
     
   }
