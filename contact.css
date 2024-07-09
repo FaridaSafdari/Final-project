@@ -185,6 +185,10 @@ footer{
     justify-content: center;
     
   }
+  .formm{
+    padding-top: 150px;
+    padding-bottom: 100px;
+  }
   .row .formm{
     margin:auto;
     
@@ -217,6 +221,11 @@ footer{
     flex-direction: column;
     justify-content: center;
     
+  }
+  .formm{
+    padding-top: 150px;
+    padding-bottom: 100px;
+
   }
   .row .formm{
     width: 250px;

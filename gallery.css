@@ -129,6 +129,10 @@ footer p{
    
 
   }
+  .container{
+    padding-top: 150px;
+    padding-bottom: 100px;
+  }
   
  
 
@@ -144,7 +148,10 @@ footer p{
 
   }
   
- 
+  .container{
+    padding-top: 150px;
+    padding-bottom: 100px;
+  }
 
 }
 @media(max-width:575px){
