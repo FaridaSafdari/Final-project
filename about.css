@@ -5,7 +5,7 @@
 }
 body{
   font-family: "Libre Baskerville", serif;
-  font-size: 13px;
+  
 }
 nav{
     width: 100%;
@@ -65,6 +65,7 @@ nav{
 .row{
     display: flex;
     flex-direction: row;
+    font-size: 13px;
   
 }
 .row .first{
