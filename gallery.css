@@ -156,25 +156,22 @@ footer p{
 }
 @media(max-width:575px){
   
-    nav{
-      display:flex;
-     
-      flex-direction: column;
-      height:20%;
+  
+      nav{
+        display:flex;
+        flex-direction: column;
+        height:20%;
       
-      margin-top:0;
-      margin-bottom: 0;
-      padding-top: 0;
-      padding-bottom: 0;
+      }
+      .container{
+          padding-top: 150px;
+          padding-bottom: 100px;
+      }
     
   
     }
-    .container{
-      padding-top: 150px;
-      padding-bottom: 100px;
-    }
 
-  }
+  
   
 
  
