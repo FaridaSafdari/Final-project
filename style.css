@@ -286,7 +286,7 @@ background-image: url('ax/77.png');
 
   }
   .row{
-    padding-top: 100px;
+    padding-top: 150px;
     padding-bottom: 100px;
     display: flex;
     flex-direction: column;
